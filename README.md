@@ -1,8 +1,10 @@
 # Hand-grip strengthening device project
+
+A hand-strengthening prototype combining a 3D-printed grip mechanism with interchangeable compression springs. An Arduino Uno electronics prototype uses a pressure sensor and display to provide repetition feedback.
+
 ## Prototype
 
-![Hand grip trainer showing the handle, finger slots and spring mechanism](media/hand-device.jpeg)
-A hand-strengthening prototype combining a 3D-printed grip mechanism with interchangeable compression springs. An Arduino Uno electronics prototype uses a pressure sensor and display to provide repetition feedback.
+<img src="media/hand-device.jpeg" alt="Hand grip trainer prototype" width="250">
 
 ## Mechanical design
 
