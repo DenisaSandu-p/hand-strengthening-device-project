@@ -52,3 +52,6 @@ The aim was to make grip exercises convenient to fit into daily routines, with s
 * Adjust sensor sensitivity and repetition thresholds.
 * Test whether each complete squeeze is counted once.
 * Assess the durability of the spring attachment through repeated use.
+  ## Additional photos and videos
+
+[View more prototype photos, videos and earlier designs](media/)
