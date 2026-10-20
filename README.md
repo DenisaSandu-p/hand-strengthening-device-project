@@ -57,3 +57,8 @@ The aim was to make grip exercises convenient to fit into daily routines, with s
   ## Additional photos and videos
 
 [View more prototype photos, videos and earlier designs](media/)
+
+## Design files
+
+- [CAD models and technical drawings](CAD/)
+  
