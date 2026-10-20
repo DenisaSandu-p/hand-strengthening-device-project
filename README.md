@@ -6,6 +6,14 @@ A hand-strengthening prototype combining a 3D-printed grip mechanism with interc
 
 <img src="media/hand-device.jpeg" alt="Hand grip trainer prototype" width="250">
 
+
+## Device demonstration
+
+
+
+https://github.com/user-attachments/assets/5900f7b1-79eb-4f42-8f8b-7434f21635da
+
+
 ## Mechanical design
 
 The device is operated by squeezing a handle towards a palm component against spring resistance.
